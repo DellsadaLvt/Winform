@@ -1,0 +1,11 @@
+E:\Winform\Kteam_course_03\Kteam_course_03\bin\Debug\Kteam_course_03.exe.config
+E:\Winform\Kteam_course_03\Kteam_course_03\bin\Debug\Kteam_course_03.exe
+E:\Winform\Kteam_course_03\Kteam_course_03\bin\Debug\Kteam_course_03.pdb
+E:\Winform\Kteam_course_03\Kteam_course_03\obj\Debug\Kteam_course_03.Form1.resources
+E:\Winform\Kteam_course_03\Kteam_course_03\obj\Debug\Kteam_course_03.Properties.Resources.resources
+E:\Winform\Kteam_course_03\Kteam_course_03\obj\Debug\Kteam_course_03.csproj.GenerateResource.cache
+E:\Winform\Kteam_course_03\Kteam_course_03\obj\Debug\Kteam_course_03.csproj.CoreCompileInputs.cache
+E:\Winform\Kteam_course_03\Kteam_course_03\obj\Debug\Kteam_course_03.exe
+E:\Winform\Kteam_course_03\Kteam_course_03\obj\Debug\Kteam_course_03.pdb
+E:\Winform\Kteam_course_03\Kteam_course_03\obj\Debug\Kteam_course_03.csprojAssemblyReference.cache
+E:\Winform\Kteam_course_03\Kteam_course_03\obj\Debug\Kteam_course_03.Form2.resources

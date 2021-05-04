@@ -1,0 +1,10 @@
+E:\Winform\Image\Image\bin\Debug\Image.exe.config
+E:\Winform\Image\Image\bin\Debug\Image.exe
+E:\Winform\Image\Image\bin\Debug\Image.pdb
+E:\Winform\Image\Image\obj\Debug\Image.csprojAssemblyReference.cache
+E:\Winform\Image\Image\obj\Debug\Image.Form1.resources
+E:\Winform\Image\Image\obj\Debug\Image.Properties.Resources.resources
+E:\Winform\Image\Image\obj\Debug\Image.csproj.GenerateResource.cache
+E:\Winform\Image\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+E:\Winform\Image\Image\obj\Debug\Image.exe
+E:\Winform\Image\Image\obj\Debug\Image.pdb

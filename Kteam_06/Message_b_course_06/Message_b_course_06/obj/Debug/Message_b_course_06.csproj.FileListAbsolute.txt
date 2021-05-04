@@ -1,0 +1,10 @@
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\bin\Debug\Message_b_course_06.exe.config
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\bin\Debug\Message_b_course_06.exe
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\bin\Debug\Message_b_course_06.pdb
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\obj\Debug\Message_b_course_06.csprojAssemblyReference.cache
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\obj\Debug\Message_b_course_06.Form1.resources
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\obj\Debug\Message_b_course_06.Properties.Resources.resources
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\obj\Debug\Message_b_course_06.csproj.GenerateResource.cache
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\obj\Debug\Message_b_course_06.csproj.CoreCompileInputs.cache
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\obj\Debug\Message_b_course_06.exe
+E:\Winform\Kteam_06\Message_b_course_06\Message_b_course_06\obj\Debug\Message_b_course_06.pdb

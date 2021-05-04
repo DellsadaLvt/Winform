@@ -1,0 +1,6 @@
+E:\Winform\RadioButton\RadioButton\obj\Debug\RadioButtonGUI.Form1.resources
+E:\Winform\RadioButton\RadioButton\obj\Debug\RadioButton.Properties.Resources.resources
+E:\Winform\RadioButton\RadioButton\obj\Debug\RadioButtonGUI.csproj.GenerateResource.cache
+E:\Winform\RadioButton\RadioButton\obj\Debug\RadioButtonGUI.csproj.CoreCompileInputs.cache
+E:\Winform\RadioButton\RadioButton\obj\Debug\RadioButton.exe
+E:\Winform\RadioButton\RadioButton\obj\Debug\RadioButton.pdb

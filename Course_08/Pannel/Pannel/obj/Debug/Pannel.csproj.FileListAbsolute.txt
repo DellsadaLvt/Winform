@@ -1,0 +1,10 @@
+E:\Winform\Course_08\Pannel\Pannel\bin\Debug\Pannel.exe.config
+E:\Winform\Course_08\Pannel\Pannel\bin\Debug\Pannel.exe
+E:\Winform\Course_08\Pannel\Pannel\bin\Debug\Pannel.pdb
+E:\Winform\Course_08\Pannel\Pannel\obj\Debug\Pannel.csprojAssemblyReference.cache
+E:\Winform\Course_08\Pannel\Pannel\obj\Debug\Pannel.Form1.resources
+E:\Winform\Course_08\Pannel\Pannel\obj\Debug\Pannel.Properties.Resources.resources
+E:\Winform\Course_08\Pannel\Pannel\obj\Debug\Pannel.csproj.GenerateResource.cache
+E:\Winform\Course_08\Pannel\Pannel\obj\Debug\Pannel.csproj.CoreCompileInputs.cache
+E:\Winform\Course_08\Pannel\Pannel\obj\Debug\Pannel.exe
+E:\Winform\Course_08\Pannel\Pannel\obj\Debug\Pannel.pdb
